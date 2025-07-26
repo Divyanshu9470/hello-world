@@ -1,1 +1,1 @@
-i am divyanshu kumar, i ant to be an ai engineer
+i am divyanshu kumar, i want to be an ai engineer
