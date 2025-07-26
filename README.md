@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow
+i am divyanshu kumar, i want to be an ai engineer
